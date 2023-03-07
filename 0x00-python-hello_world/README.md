@@ -1,1 +1,1 @@
-0x00. Python - Hello, World
+ Why Python programming is awesome
